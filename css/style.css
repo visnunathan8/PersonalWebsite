@@ -50,6 +50,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
 body {
+  
   margin:10;
   max-width: 1800px;
   height: 1800px;
@@ -59,7 +60,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; 
+  background-color: #fff;
+  zoom:1.2, 
 }
 
 [tabindex="-1"]:focus {
